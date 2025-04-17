@@ -150,5 +150,5 @@ for name, model in models:
 # In[ ]:
 
 
-get_ipython().system('jupyter nbconvert --to python regression_notebook.ipynb')
+# get_ipython().system('jupyter nbconvert --to python regression_notebook.ipynb')
 
